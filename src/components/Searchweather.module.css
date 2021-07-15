@@ -1,0 +1,57 @@
+.mainBox{
+    
+    background-color: hsl(192, 82%, 37%);
+    border-radius: 10px;
+    padding: 10px;
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+    align-items: center;
+    margin: auto;
+    min-height: 150px;
+    width: 50%;
+}
+
+.searchBox{
+
+    border-radius: 20px;
+    border:hidden;
+    height: 50px;
+    width: 60%;
+}
+
+.card{
+    background-color: rgb(182, 255, 245);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2em;
+    border-radius: 50%;
+    text-align: center;
+    width:50%;
+    padding: 20px;
+    margin:auto;
+    margin-top: 20px;
+}
+
+input:focus
+{
+    border: 1px solid #1670BE;
+    box-shadow: 0 0 3px #1670BE;
+    outline-offset: 0px;
+    outline: none;
+}
+
+input::placeholder {
+    color: #4400ff;
+    font-size: 2.1em;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+}
+
+button{
+
+    margin:10px;
+    background-color: #211dfc;
+    border-radius: 5px;
+    color:#ffff;
+    padding: 5px;
+    border: none;
+}

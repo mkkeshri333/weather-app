@@ -1,0 +1,12 @@
+.Header{
+
+    background-color: rgb(38, 15, 248);
+    color:#ffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 10px;
+    font-size: 30px;
+    padding: 10px;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 30px;
+}
